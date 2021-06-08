@@ -1,0 +1,2 @@
+﻿select state
+from publishers
